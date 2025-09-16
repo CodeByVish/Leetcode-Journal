@@ -5,29 +5,32 @@
 [![Repo Size](https://img.shields.io/github/repo-size/CodeByVish/Leetcode-Journal?style=flat-square)](./)
 
 Personal practice log + solutions for LeetCode.  
-This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**—accepted solutions show up here automatically.
+This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Accepted solutions show up here automatically.
 
 > **Goals:** capture patterns, keep explanations short, and make everything easily searchable later.
 
 ---
 
-## 🔎 Find Things Fast
+## 🔎 Quick Find (GitHub)
 
-- By title: `two sum in:path`
-- By number: `path:**/0001-*`
-- By difficulty + topic: `path:easy dp` / `path:medium heap` / `path:hard graph`
-- By language: `path:**/*.py`, `path:**/*.js`, etc.
+| Need | Try this query |
+|---|---|
+| By title | `two sum in:path` |
+| By problem # | `path:**/0001-*` |
+| By difficulty + topic | `path:easy dp` · `path:medium heap` · `path:hard graph` |
+| By language | `path:**/*.py` · `path:**/*.js` · `path:**/*.cpp` |
 
-## 🧩 Solution Header Template
+<details>
+<summary>🧩 Solution header snippet (copy & paste)</summary>
 
-Use your language’s comment syntax; here’s a text template:
-
+```text
 # Title: Two Sum (0001)
 # Difficulty: Easy
 # Tags: @array @hashmap
 # Time: O(n)
 # Space: O(n)
 # Notes: Hash map of needed complement.
+
 
 
 ---
