@@ -4,7 +4,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/CodeByVish/Leetcode-Journal?style=flat-square)
 [![Repo Size](https://img.shields.io/github/repo-size/CodeByVish/Leetcode-Journal?style=flat-square)](./)
 
-Personal practice log + solutions + quick notes for LeetCode.  
+Personal practice log + solutions for LeetCode.  
 This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**—accepted solutions show up here automatically.
 
 > **Goals:** capture patterns, keep explanations short, and make everything easily searchable later.
@@ -70,7 +70,7 @@ Use your language’s comment syntax; here’s a text template:
 - [ ] Standardize headers + tags across older solutions
 - [ ] Add bite-size explanations for tricky problems
 - [ ] Topic notes: sliding window, binary search on answer, DP patterns, union-find
-- [ ] (Optional) script to count solved by difficulty
+
 
 ## 🙌 Credits
 
