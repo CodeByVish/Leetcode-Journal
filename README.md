@@ -40,10 +40,12 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Array
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Stack
 |  |
