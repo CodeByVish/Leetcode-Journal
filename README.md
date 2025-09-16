@@ -11,27 +11,16 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 
 ---
 
-## 🔎 Quick Find (GitHub)
+## 🗺️ Roadmap (personal)
 
-| Need | Try this query |
-|---|---|
-| By title | `two sum in:path` |
-| By problem # | `path:**/0001-*` |
-| By difficulty + topic | `path:easy dp` · `path:medium heap` · `path:hard graph` |
-| By language | `path:**/*.py` · `path:**/*.js` · `path:**/*.cpp` |
+- [ ] Standardize headers + tags across older solutions
+- [ ] Add bite-size explanations for tricky problems
 
-<details>
-<summary>🧩 Solution header snippet (copy & paste)</summary>
+## 🙌 Credits
 
-```text
-# Title: Two Sum (0001)
-# Difficulty: Easy
-# Tags: @array @hashmap
-# Time: O(n)
-# Space: O(n)
-# Notes: Hash map of needed complement.
-
-
+- Auto-sync: **LeetHub v2**
+- Problems: **LeetCode**
+- Maintainer: **@CodeByVish**
 
 ---
 
@@ -69,18 +58,3 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [1452-restaurant-growth](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
-
----
-
-## 🗺️ Roadmap (personal)
-
-- [ ] Standardize headers + tags across older solutions
-- [ ] Add bite-size explanations for tricky problems
-- [ ] Topic notes: sliding window, binary search on answer, DP patterns, union-find
-
-
-## 🙌 Credits
-
-- Auto-sync: **LeetHub v2**
-- Problems: **LeetCode**
-- Maintainer: **@CodeByVish**
