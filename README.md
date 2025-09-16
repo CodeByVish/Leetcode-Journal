@@ -61,6 +61,10 @@ Use your language’s comment syntax; here’s a text template:
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Database
+|  |
+| ------- |
+| [1452-restaurant-growth](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
 
 ---
