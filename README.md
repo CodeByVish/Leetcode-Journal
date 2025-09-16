@@ -1,3 +1,39 @@
+# 🧠 LeetCode Journal
+
+[![Last Commit](https://img.shields.io/github/last-commit/CodeByVish/Leetcode-Journal?style=flat-square)](./)
+![Top Language](https://img.shields.io/github/languages/top/CodeByVish/Leetcode-Journal?style=flat-square)
+[![Repo Size](https://img.shields.io/github/repo-size/CodeByVish/Leetcode-Journal?style=flat-square)](./)
+
+Personal practice log + solutions + quick notes for LeetCode.  
+This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**—accepted solutions show up here automatically.
+
+> **Goals:** capture patterns, keep explanations short, and make everything easily searchable later.
+
+---
+
+## 🔎 Find Things Fast
+
+- By title: `two sum in:path`
+- By number: `path:**/0001-*`
+- By difficulty + topic: `path:easy dp` / `path:medium heap` / `path:hard graph`
+- By language: `path:**/*.py`, `path:**/*.js`, etc.
+
+## 🧩 Solution Header Template
+
+Use your language’s comment syntax; here’s a text template:
+
+# Title: Two Sum (0001)
+# Difficulty: Easy
+# Tags: @array @hashmap
+# Time: O(n)
+# Space: O(n)
+# Notes: Hash map of needed complement.
+
+
+---
+
+> ⛔ **Do not edit below** — this block is maintained by LeetHub v2 and will be auto-updated.
+
 # Leetcode-Journal
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -26,3 +62,18 @@
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
+
+---
+
+## 🗺️ Roadmap (personal)
+
+- [ ] Standardize headers + tags across older solutions
+- [ ] Add bite-size explanations for tricky problems
+- [ ] Topic notes: sliding window, binary search on answer, DP patterns, union-find
+- [ ] (Optional) script to count solved by difficulty
+
+## 🙌 Credits
+
+- Auto-sync: **LeetHub v2**
+- Problems: **LeetCode**
+- Maintainer: **@CodeByVish**
