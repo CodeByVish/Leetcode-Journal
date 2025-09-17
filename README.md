@@ -24,7 +24,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 
 ---
 
-> ⛔ **Do not edit below** — this block is maintained by LeetHub v2 and will be auto-updated.
+> ⛔  This block is maintained by LeetHub v2 and will be auto-updated.
 
 # Leetcode-Journal
 <!---LeetCode Topics Start-->
