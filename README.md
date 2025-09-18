@@ -34,6 +34,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 ## String
 |  |
 | ------- |
@@ -66,12 +67,15 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
