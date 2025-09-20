@@ -36,6 +36,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,8 +85,17 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
