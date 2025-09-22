@@ -35,6 +35,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
@@ -51,6 +52,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 ## Math
@@ -103,4 +105,8 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
