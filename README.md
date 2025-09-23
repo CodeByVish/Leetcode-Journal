@@ -42,6 +42,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
@@ -109,4 +110,8 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
