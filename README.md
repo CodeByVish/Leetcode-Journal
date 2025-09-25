@@ -51,6 +51,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0120-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -117,4 +118,8 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0165-compare-version-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
