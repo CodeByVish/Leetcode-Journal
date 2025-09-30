@@ -59,6 +59,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
@@ -71,6 +72,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +147,12 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0830-largest-triangle-area) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
