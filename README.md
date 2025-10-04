@@ -51,6 +51,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0611-valid-triangle-number) |
@@ -131,6 +132,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
@@ -141,6 +143,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
