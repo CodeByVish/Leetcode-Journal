@@ -69,6 +69,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
 ## Math
@@ -176,6 +177,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1642-water-bottles](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -195,4 +197,8 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
