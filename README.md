@@ -34,6 +34,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
@@ -48,6 +49,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0165-compare-version-numbers](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
 ## Array
@@ -62,6 +64,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0830-largest-triangle-area](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
@@ -176,6 +179,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [0611-valid-triangle-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Geometry
