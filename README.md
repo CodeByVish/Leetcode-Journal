@@ -75,6 +75,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3827-implement-router) |
