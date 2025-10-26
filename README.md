@@ -37,6 +37,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -75,6 +76,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2169-simple-bank-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -125,6 +127,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3797-design-spreadsheet) |
@@ -219,6 +222,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [1642-water-bottles](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
