@@ -1,25 +1,48 @@
 class Solution:
-    def findXSum(self, nums: List[int], k: int, x: int) -> List[int]:
-        def x_sum(freq):
-            freq2=sorted(freq, reverse=True)
-            Sum=0
-            for f, num in freq2[:x]:
-                if f==0: break
-                Sum+=num*f
-            return Sum
-        n=len(nums)
-        sz=n-k+1
-        ans=[0]*sz
-        freq=[[0, 0] for _ in range(51)]
-        for z in nums[:k]:
-            freq[z][1]=z
-            freq[z][0]+=1
-        ans[0]=x_sum(freq)
-        for l in range(1, sz):
-            L, R=nums[l-1], nums[l+k-1]
-            freq[L][0]-=1
-            freq[R][0]+=1
-            freq[R][1]=R
-            ans[l]=x_sum(freq)
-        return ans
+    def get_sum(self, arr, x):
+        
+        occr_dict = dict(Counter(arr))
+        occr_list = []
+
+        for e, f in occr_dict.items():
+            occr_list.append([e, f])
+
+        i = 0
+        while(i < len(occr_list) - 1):
+            
+            j = 0
+            while(j < len(occr_list) - 1 - i):
+               
+                if(occr_list[j][1] < occr_list[j + 1][1]):
+                    occr_list[j], occr_list[j + 1] = occr_list[j + 1], occr_list[j]
+                
+                elif(occr_list[j][1] == occr_list[j + 1][1]):
+                    if(occr_list[j][0] < occr_list[j + 1][0]):
+                        occr_list[j], occr_list[j + 1] = occr_list[j + 1], occr_list[j]
+                
+                j += 1            
+            i += 1
+
+        _sum = 0
+        i = 0
+        try:
+            while(i < x):
+                _sum += occr_list[i][0] * occr_list[i][1]
+                i += 1
+        except:
+            pass
+        
+        return _sum
+
+    def findXSum(self, nums: list[int], k: int, x: int) -> list[int]:
+        
+        answer = []
+
+        i = 0
+        while(i < len(nums) - k + 1):   
+            
+            answer.append(self.get_sum(nums[i : i + k], x))
+            i += 1
+
+        return answer
         
