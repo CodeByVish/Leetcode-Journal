@@ -1,43 +1,36 @@
 class Solution:
     def maxPower(self, stations: List[int], r: int, k: int) -> int:
-        lo = min(stations)
-        hi = max(stations) * len(stations) + k
-        
-        # Adding bunch of (r+1) 0s to left, and (r) 0s to right for handling corner cases.
-        stations = [0]*(r) + stations + [0]*r
-        res = lo
-        
-        def check(med):
-            available = k
-            ind = r                         # ind of our first city
-            
-            window = sum(stations[:2*r])    # Sliding window will store power of stations for city
-                                            # initially it will have values from 0th station to (r-1) stn
-            
-			# This will store, in which city we have added station because of deficiency. 
-			# Because we need to remove that val when that city is out of range.
-            added = defaultdict(int)        
-                                            
-            while ind < len(stations)-r:
-                window += stations[ind + r]
-                
-                if window < med:
-                    diff = med-window
-                    if diff>available:
+        n = len(stations)
+
+        def isGood(minPowerRequired, additionalStations):
+            windowPower = sum(stations[:r])  # init windowPower to store power of 0th city (minus stations[r])
+            additions = [0] * n
+            for i in range(n):
+                if i + r < n:  # now, windowPower stores sum of power stations from [i-r..i+r], it also means it's the power of city `ith`
+                    windowPower += stations[i + r]
+
+                if windowPower < minPowerRequired:
+                    needed = minPowerRequired - windowPower
+                    if needed > additionalStations:  # Not enough additional stations to plant
                         return False
-                    window+=diff
-                    added[ind+r]=diff 
-                    available-=diff
-					
-                window -= (stations[ind - r] + added[ind-r])
-                ind+=1
+                    # Plant the additional stations on the farthest city in the range to cover as many cities as possible
+                    additions[min(n - 1, i + r)] += needed
+                    windowPower = minPowerRequired
+                    additionalStations -= needed
+
+                if i - r >= 0:  # out of window range
+                    windowPower -= stations[i - r] + additions[i - r]
+
             return True
-        
-        while lo<=hi:                       # Typical Binary Search
-            m = (lo + hi )//2
-            if check(m):
-                res = m
-                lo = m + 1
+
+        left = 0
+        right = sum(stations) + k  # The answer = `right`, when `r = n`, all value of stations are the same!
+        ans = 0
+        while left <= right:
+            mid = (left + right) // 2
+            if isGood(mid, k):
+                ans = mid  # This is the maximum possible minimum power so far
+                left = mid + 1  # Search for a larger value in the right side
             else:
-                hi = m-1
-        return res
+                right = mid - 1  # Decrease minPowerRequired to need fewer additional power stations
+        return ans
