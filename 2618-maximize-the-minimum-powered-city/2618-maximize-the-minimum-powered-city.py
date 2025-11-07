@@ -1,36 +1,25 @@
 class Solution:
     def maxPower(self, stations: List[int], r: int, k: int) -> int:
         n = len(stations)
-
-        def isGood(minPowerRequired, additionalStations):
-            windowPower = sum(stations[:r])  # init windowPower to store power of 0th city (minus stations[r])
-            additions = [0] * n
+        df = [0] * (n + 5)
+        for i, j in enumerate(stations):
+            df[max(0, i - r)] += j
+            df[min(n - 1, i + r) + 1] -= j
+        lo, hi = min(accumulate(df[:n])), 2 * 10 ** 10
+        def check(mid):
+            diff = df[:]
+            cur, cnt = 0, 0
             for i in range(n):
-                if i + r < n:  # now, windowPower stores sum of power stations from [i-r..i+r], it also means it's the power of city `ith`
-                    windowPower += stations[i + r]
-
-                if windowPower < minPowerRequired:
-                    needed = minPowerRequired - windowPower
-                    if needed > additionalStations:  # Not enough additional stations to plant
-                        return False
-                    # Plant the additional stations on the farthest city in the range to cover as many cities as possible
-                    additions[min(n - 1, i + r)] += needed
-                    windowPower = minPowerRequired
-                    additionalStations -= needed
-
-                if i - r >= 0:  # out of window range
-                    windowPower -= stations[i - r] + additions[i - r]
-
+                cur += diff[i]
+                if cur < mid:
+                    cnt += mid - cur
+                    diff[min(n - 1, i + 2 * r) + 1] -= mid - cur
+                    cur = mid
+                if cnt > k: return False
             return True
-
-        left = 0
-        right = sum(stations) + k  # The answer = `right`, when `r = n`, all value of stations are the same!
-        ans = 0
-        while left <= right:
-            mid = (left + right) // 2
-            if isGood(mid, k):
-                ans = mid  # This is the maximum possible minimum power so far
-                left = mid + 1  # Search for a larger value in the right side
-            else:
-                right = mid - 1  # Decrease minPowerRequired to need fewer additional power stations
-        return ans
+    
+        while lo < hi:
+            mid = lo + hi + 1 >> 1
+            if check(mid): lo = mid
+            else: hi = mid - 1
+        return lo
