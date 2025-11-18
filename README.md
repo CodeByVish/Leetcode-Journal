@@ -78,6 +78,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0407-trapping-rain-water-ii](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0611-valid-triangle-number) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
