@@ -84,6 +84,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0794-swim-in-rising-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -335,6 +336,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Bit Manipulation
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3676-smallest-number-with-all-set-bits) |
