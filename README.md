@@ -33,6 +33,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0166-fraction-to-recurring-decimal) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
@@ -131,6 +132,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1636-number-of-substrings-with-only-1s) |
