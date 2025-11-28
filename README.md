@@ -324,6 +324,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -390,4 +391,8 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
